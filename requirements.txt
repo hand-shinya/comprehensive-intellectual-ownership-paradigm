@@ -1,0 +1,101 @@
+# Comprehensive Intellectual Ownership Paradigm (CIOP) - Dependencies
+# Core dependencies for social institution design and policy analysis
+
+# Data Analysis and Computation
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Statistical Analysis (for policy impact assessment)
+statsmodels>=0.13.0
+scikit-learn>=1.0.0
+
+# Visualization (for policy framework illustration)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.3.0
+
+# Social Network Analysis (for stakeholder mapping)
+networkx>=2.6.0
+
+# Economic Analysis
+sympy>=1.9.0
+
+# Policy and Legal Text Analysis
+nltk>=3.6.0
+spacy>=3.4.0
+textblob>=0.17.0
+
+# Web Scraping (for legal and policy research)
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+
+# Document Processing (for policy document analysis)
+python-docx>=0.8.11
+PyPDF2>=2.10.0
+
+# Database Management (for institutional data)
+sqlalchemy>=1.4.0
+sqlite3
+
+# Interactive Development and Analysis
+jupyter>=1.0.0
+ipython>=7.0.0
+notebook>=6.4.0
+
+# Web Framework (for policy simulation interfaces)
+flask>=2.0.0
+fastapi>=0.68.0
+streamlit>=1.2.0
+
+# Government and Policy Data APIs
+requests-oauthlib>=1.3.0
+
+# International Standards and Legal Frameworks
+xmltodict>=0.12.0
+pycountry>=22.3.0
+
+# Game Theory and Institutional Economics
+nashpy>=0.0.35
+
+# Survey and Questionnaire Analysis
+pandas-profiling>=3.1.0
+
+# Time Series Analysis (for policy impact tracking)
+statsforecast>=1.0.0
+
+# Testing Framework
+pytest>=6.0.0
+pytest-cov>=2.12.0
+
+# Documentation
+sphinx>=4.0.0
+mkdocs>=1.2.0
+mkdocs-material>=7.3.0
+
+# Development Tools
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
+
+# Data Validation (for policy data integrity)
+pydantic>=1.8.0
+cerberus>=1.3.0
+
+# Blockchain and Digital Rights (for future implementations)
+web3>=5.24.0
+
+# International Collaboration Tools
+googletrans>=3.1.0-alpha
+
+# Note: Current CIOP implementation focuses on institutional analysis
+# These dependencies support:
+# - Policy impact assessment and modeling
+# - Legal framework analysis and comparison  
+# - Stakeholder mapping and social network analysis
+# - Economic modeling for stewardship systems
+# - International cooperation and standards analysis
+# - Institutional data management and analysis
+
+# For basic CIOP functionality, core packages are sufficient
+# Advanced features require domain-specific packages based on implementation context

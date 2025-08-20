@@ -1,92 +1,26 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
+title: "Comprehensive Intellectual Ownership Paradigm: Redefining Knowledge Property in the Age of Artificial Intelligence"
+version: "1.0.0"
+abstract: "The Comprehensive Intellectual Ownership Paradigm (CIOP) represents a fundamental reconceptualization of intellectual property rights for the AI era. Moving beyond traditional ownership models that treat knowledge as commodity, CIOP establishes a framework for collective intellectual stewardship that preserves individual creative agency while enabling collaborative knowledge evolution. This paradigm addresses the profound challenges posed by AI-generated content, collaborative human-AI creation, and the need for sustainable knowledge ecosystems in an age of rapid technological advancement."
+license: "MIT"
 authors:
   - family-names: "Handa"
     given-names: "Shinya"
     email: "your.email@example.com"
     affiliation: "Founder of Comprehensive Intellectual Ownership Paradigm (CIOP)"
     orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Comprehensive Intellectual Ownership Paradigm: Redefining Knowledge Property in the Age of Artificial Intelligence"
-version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
-date-released: 2025-08-19
-url: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
-repository-code: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
-license: MIT
-abstract: >-
-  The Comprehensive Intellectual Ownership Paradigm (CIOP) represents a fundamental 
-  reconceptualization of intellectual property rights for the AI era. Moving beyond 
-  traditional ownership models that treat knowledge as commodity, CIOP establishes a 
-  framework for collective intellectual stewardship that preserves individual creative 
-  agency while enabling collaborative knowledge evolution. This paradigm addresses the 
-  profound challenges posed by AI-generated content, collaborative human-AI creation, 
-  and the need for sustainable knowledge ecosystems in an age of rapid technological 
-  advancement.
 keywords:
-  - "Intellectual Property Reform"
-  - "AI Governance"
-  - "Collective Stewardship"
-  - "Knowledge Commons"
-  - "Social Institution Design"
-  - "Policy Framework"
-  - "Legal Innovation"
-  - "Human-AI Collaboration"
-  - "Sustainable Innovation"
-  - "Institutional Economics"
-  - "Technology Policy"
-  - "Digital Rights"
-references:
-  - type: software
-    title: "AI-Augmented Dialectics Theory: Epistemological Revolution in Human-AI Co-Evolution"
-    authors:
-      - family-names: "Handa"
-        given-names: "Shinya"
-    year: 2025
-    url: "https://github.com/hand-shinya/ai-augmented-dialectics-theory"
-    notes: "Cognitive and epistemological foundation for CIOP"
-  - type: article
-    title: "Language Process Theory and Dialectical Thinking"
-    authors:
-      - family-names: "Miura"
-        given-names: "Tsutomu"
-    year: 1967
-    notes: "Theoretical foundation for collective knowledge processes"
-  - type: book
-    title: "The Commons: The Evolution of Institutions for Collective Action"
-    authors:
-      - family-names: "Ostrom"
-        given-names: "Elinor"
-    year: 1990
-    publisher: "Cambridge University Press"
-    notes: "Foundation for commons-based governance models"
-  - type: article
-    title: "Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity"
-    authors:
-      - family-names: "Lessig"
-        given-names: "Lawrence"
-    year: 2004
-    notes: "Critical analysis of traditional intellectual property limitations"
-preferred-citation:
-  type: software
-  title: "Comprehensive Intellectual Ownership Paradigm: Redefining Knowledge Property in the Age of Artificial Intelligence"
-  authors:
-    - family-names: "Handa"
-      given-names: "Shinya"
-  year: 2025
-  url: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
-  notes: "Original theoretical framework for intellectual stewardship in AI age"
-identifiers:
-  - type: url
-    value: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
-    description: "Source code repository"
-  - type: doi
-    value: "10.5281/zenodo.XXXXXXX"
-    description: "Zenodo archive"
-repository: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
-repository-code: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
-contact:
-  - family-names: "Handa"
-    given-names: "Shinya"
-    email: "your.email@example.com"
-    affiliation: "Social Institution Design Researcher"
+  - intellectual property reform
+  - AI governance
+  - collective stewardship
+  - knowledge commons
+  - social institution design
+  - policy framework
+  - legal innovation
+  - human-AI collaboration
+  - sustainable innovation
+  - institutional economics
+  - technology policy
+  - digital rights
